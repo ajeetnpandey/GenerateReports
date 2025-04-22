@@ -21,4 +21,4 @@ This project demonstrates how to generate an Excel report from a database and sa
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/excel-report-generator.git
+   git clone https://github.com/ajeetnpandey/GenerateReports.git
